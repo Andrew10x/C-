@@ -1,5 +1,6 @@
 ﻿#include <iostream>
 using namespace std;
+// Version3
 
 int main()
 {
@@ -19,4 +20,4 @@ int main()
 		system("pause");
 	} system("pause");
 }
-	//
+	
